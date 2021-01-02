@@ -1,9 +1,7 @@
-// CS311 Yoshii - HW5 Priority Queue Implementation File
-// Complete all ** parts and give good comments
-// ** Do not delete my comments.
+
 
 // =================================================
-// HW5 Priority Printer Queue 
+//  Priority Printer Queue 
 // YOUR NAME: Abdiel Verdin
 // File Type: implementation pqueue.cpp
 // =================================================
