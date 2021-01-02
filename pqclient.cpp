@@ -1,4 +1,4 @@
-// CS311 Yoshii HW5 client to test the Pqueue
+//  client to test the Pqueue
 // Use as is!
 
 #include "pqueue.h"
