@@ -1,6 +1,4 @@
-Script started on Sun 08 Nov 2020 12:28:19 AM PST
-]0;verdi006@empress:~/cs311/CS311Progs/HWPrograms/forHW5[?1034h[verdi006@empress forHW5]$ emacs pqclient.c[4Pueueclient.c[5Pueueclient.c[4Pueuelsclea[3Pcd forHWlscd HWProgramlscd CS311Proglscd cs3[2Plogo/cs/recordhw hw4Test.t./a.out[ g++ binstree.cpp hw4client.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[ g++ binstree.cpp[[[[[[[[[[[[[[[[[[Kg++ pqueue.cpp pqclient.cpp
-]0;verdi006@empress:~/cs311/CS311Progs/HWPrograms/forHW5[verdi006@empress forHW5]$ g++ pqueue.cpp pqclient.cp[9Pemacs[C[C[C[C[C[C[C[C[C[C[C[C[4Pueueclient.c[5Pueueclient.c[4Pueuelsclea[3Pcd forHWlscd HWProgramlscd CS311Proglscd cs3[2Plogo/cs/recordhw hw4Test.t./a.out[ g++ binstree.cpp hw4client.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K
+
 Adding: 20
 Adding: 12
 Jobs: 12 20 Adding: 30
